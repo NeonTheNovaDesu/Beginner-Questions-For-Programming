@@ -41,20 +41,24 @@ void FindMaxAndMinWithIF() {
 }
 void FindMaxAndMinWithSwitchCase() {
 
-	int num1, num2, num3, num4, max, min,statement;
+	int max, min;
+	int input[5];
+	std::cout << "Enter 5 numbers: " << std::endl;
 
-	std::cin >> num1 >> num2 >> num3 >> num4;
-
-	max = num1;
-	min = num1;
-
-	std::cout << "enter what you want to do \n";
-		std::cout << "1. Finding Maximum \n";
-		std::cout << "2. Finding Minimum\n";
-	switch (statement)
-	{
-		case 1
-		default:
-			break;
+	for (int i = 0; i < 5; i++) {
+		std::cin >> input[i];
 	}
+	min = input[0];
+	max = input[0];
+	
+	for (int i = 1; i < 5; i++) {
+		if (input[i] > max) {
+			max = input[i];
+		}
+		if (min > input[i]) {
+			min = input[i];
+		}
+	}
+	std::cout << "Minimum is : " << min << std::endl;
+	std::cout << "Maximum is : " << max << std::endl;
 }
