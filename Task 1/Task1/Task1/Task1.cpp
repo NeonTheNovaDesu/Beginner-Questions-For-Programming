@@ -4,9 +4,11 @@
 #include <iostream>
 
 void FindMaxAndMinWithIF();
+void FindMaxAndMinWithSwitchCase();
+
 int main()
 {
-	FindMaxAndMinWithIF();
+	//FindMaxAndMinWithIF();
 }
 void FindMaxAndMinWithIF() {
 	int num1, num2, num3, num4, max, min;
@@ -36,4 +38,23 @@ void FindMaxAndMinWithIF() {
 	}
 	std::cout << "max = " << max << "\n";
 	std::cout << "min = " << min;
+}
+void FindMaxAndMinWithSwitchCase() {
+
+	int num1, num2, num3, num4, max, min,statement;
+
+	std::cin >> num1 >> num2 >> num3 >> num4;
+
+	max = num1;
+	min = num1;
+
+	std::cout << "enter what you want to do \n";
+		std::cout << "1. Finding Maximum \n";
+		std::cout << "2. Finding Minimum\n";
+	switch (statement)
+	{
+		case 1
+		default:
+			break;
+	}
 }
