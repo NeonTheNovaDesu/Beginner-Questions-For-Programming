@@ -4,7 +4,7 @@
 #include <iostream>
 
 void FindMaxAndMinWithIF();
-void FindMaxAndMinWithSwitchCase();
+void FindMaxAndMinWithArray();
 
 int main()
 {
@@ -39,18 +39,19 @@ void FindMaxAndMinWithIF() {
 	std::cout << "max = " << max << "\n";
 	std::cout << "min = " << min;
 }
-void FindMaxAndMinWithSwitchCase() {
+void FindMaxAndMinWithArray() {
 
 	int max, min;
-	int input[5];
-	std::cout << "Enter 5 numbers: " << std::endl;
 
+	std::cout << "Enter 5 numbers";
+
+	int input[5];
 	for (int i = 0; i < 5; i++) {
 		std::cin >> input[i];
 	}
 	min = input[0];
 	max = input[0];
-	
+
 	for (int i = 1; i < 5; i++) {
 		if (input[i] > max) {
 			max = input[i];

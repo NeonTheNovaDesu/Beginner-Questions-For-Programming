@@ -1,0 +1,14 @@
+D:\It supposed to be for videos but i think it will be for random bullshit\Practice\git-hub\Beginner-Questions-For-Programming\Task 1\Task1.2\Task 1\bin\Debug\net7.0\Task 1.exe
+D:\It supposed to be for videos but i think it will be for random bullshit\Practice\git-hub\Beginner-Questions-For-Programming\Task 1\Task1.2\Task 1\bin\Debug\net7.0\Task 1.deps.json
+D:\It supposed to be for videos but i think it will be for random bullshit\Practice\git-hub\Beginner-Questions-For-Programming\Task 1\Task1.2\Task 1\bin\Debug\net7.0\Task 1.runtimeconfig.json
+D:\It supposed to be for videos but i think it will be for random bullshit\Practice\git-hub\Beginner-Questions-For-Programming\Task 1\Task1.2\Task 1\bin\Debug\net7.0\Task 1.dll
+D:\It supposed to be for videos but i think it will be for random bullshit\Practice\git-hub\Beginner-Questions-For-Programming\Task 1\Task1.2\Task 1\bin\Debug\net7.0\Task 1.pdb
+D:\It supposed to be for videos but i think it will be for random bullshit\Practice\git-hub\Beginner-Questions-For-Programming\Task 1\Task1.2\Task 1\obj\Debug\net7.0\Task 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\It supposed to be for videos but i think it will be for random bullshit\Practice\git-hub\Beginner-Questions-For-Programming\Task 1\Task1.2\Task 1\obj\Debug\net7.0\Task 1.AssemblyInfoInputs.cache
+D:\It supposed to be for videos but i think it will be for random bullshit\Practice\git-hub\Beginner-Questions-For-Programming\Task 1\Task1.2\Task 1\obj\Debug\net7.0\Task 1.AssemblyInfo.cs
+D:\It supposed to be for videos but i think it will be for random bullshit\Practice\git-hub\Beginner-Questions-For-Programming\Task 1\Task1.2\Task 1\obj\Debug\net7.0\Task 1.csproj.CoreCompileInputs.cache
+D:\It supposed to be for videos but i think it will be for random bullshit\Practice\git-hub\Beginner-Questions-For-Programming\Task 1\Task1.2\Task 1\obj\Debug\net7.0\Task 1.dll
+D:\It supposed to be for videos but i think it will be for random bullshit\Practice\git-hub\Beginner-Questions-For-Programming\Task 1\Task1.2\Task 1\obj\Debug\net7.0\refint\Task 1.dll
+D:\It supposed to be for videos but i think it will be for random bullshit\Practice\git-hub\Beginner-Questions-For-Programming\Task 1\Task1.2\Task 1\obj\Debug\net7.0\Task 1.pdb
+D:\It supposed to be for videos but i think it will be for random bullshit\Practice\git-hub\Beginner-Questions-For-Programming\Task 1\Task1.2\Task 1\obj\Debug\net7.0\Task 1.genruntimeconfig.cache
+D:\It supposed to be for videos but i think it will be for random bullshit\Practice\git-hub\Beginner-Questions-For-Programming\Task 1\Task1.2\Task 1\obj\Debug\net7.0\ref\Task 1.dll
